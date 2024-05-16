@@ -35,7 +35,7 @@ Senha: 12345678
 
 ## 8. Tela projeto
 
-<img src="../img/tela_bookstore.png" alt="Preview do Projeto" width="500"/>
+<img src="img/tela_bookstore.png" alt="Preview do Projeto" width="500"/>
 
 
 
